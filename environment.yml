@@ -1,4 +1,4 @@
-name: pcla-main-text-figures
+name: pcla-experiment
 channels:
   - conda-forge
 dependencies:
