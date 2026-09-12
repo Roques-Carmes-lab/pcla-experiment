@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="579.383251pt" height="137.99952pt" viewBox="0 0 579.383251 137.99952" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-12T14:32:39.515870</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 137.99952 
+L 579.383251 137.99952 
+L 579.383251 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 7.2 130.79952 
+L 92.829533 130.79952 
+L 92.829533 35.896289 
+L 7.2 35.896289 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 67.574226 94.184876 
+L 84.411097 94.184876 
+L 84.411097 72.510933 
+L 67.574226 72.510933 
+z
+" clip-path="url(#pd298aa25a3)" style="fill: #251433; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 41.596331 119.962549 
+L 58.433202 119.962549 
+L 58.433202 98.288607 
+L 41.596331 98.288607 
+z
+" clip-path="url(#pd298aa25a3)" style="fill: #f4835b; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 41.596331 68.407202 
+L 58.433202 68.407202 
+L 58.433202 46.73326 
+L 41.596331 46.73326 
+z
+" clip-path="url(#pd298aa25a3)" style="fill: #f59269; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 15.618436 94.184876 
+L 32.455307 94.184876 
+L 32.455307 72.510933 
+L 15.618436 72.510933 
+z
+" clip-path="url(#pd298aa25a3)" style="fill: #f7d0b5; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2"/>
+   <g id="patch_7">
+    <path d="M 7.2 130.79952 
+L 7.2 35.896289 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 7.2 130.79952 
+L 92.829533 130.79952 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="50.014766" y="29.896289" transform="rotate(-0 50.014766 29.896289)">beam 1</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_9">
+    <path d="M 117.614468 130.79952 
+L 203.244001 130.79952 
+L 203.244001 35.896289 
+L 117.614468 35.896289 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 177.988694 94.184876 
+L 194.825565 94.184876 
+L 194.825565 72.510933 
+L 177.988694 72.510933 
+z
+" clip-path="url(#p49396349ed)" style="fill: #f3714d; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 152.010799 119.962549 
+L 168.84767 119.962549 
+L 168.84767 98.288607 
+L 152.010799 98.288607 
+z
+" clip-path="url(#p49396349ed)" style="fill: #f6b995; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 152.010799 68.407202 
+L 168.84767 68.407202 
+L 168.84767 46.73326 
+L 152.010799 46.73326 
+z
+" clip-path="url(#p49396349ed)" style="fill: #7b1f59; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 126.032903 94.184876 
+L 142.869774 94.184876 
+L 142.869774 72.510933 
+L 126.032903 72.510933 
+z
+" clip-path="url(#p49396349ed)" style="fill: #f9ddc9; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4"/>
+   <g id="patch_14">
+    <path d="M 117.614468 130.79952 
+L 117.614468 35.896289 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 117.614468 130.79952 
+L 203.244001 130.79952 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(140.418297 16.835742)">beam 2</text>
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(152.431422 29.896289)">(A)</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_16">
+    <path d="M 228.028935 130.79952 
+L 313.658468 130.79952 
+L 313.658468 35.896289 
+L 228.028935 35.896289 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 288.403162 94.184876 
+L 305.240033 94.184876 
+L 305.240033 72.510933 
+L 288.403162 72.510933 
+z
+" clip-path="url(#pe5880dafc8)" style="fill: #3a1a41; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 262.425266 119.962549 
+L 279.262137 119.962549 
+L 279.262137 98.288607 
+L 262.425266 98.288607 
+z
+" clip-path="url(#pe5880dafc8)" style="fill: #f69e75; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 262.425266 68.407202 
+L 279.262137 68.407202 
+L 279.262137 46.73326 
+L 262.425266 46.73326 
+z
+" clip-path="url(#pe5880dafc8)" style="fill: #e8403e; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 236.447371 94.184876 
+L 253.284242 94.184876 
+L 253.284242 72.510933 
+L 236.447371 72.510933 
+z
+" clip-path="url(#pe5880dafc8)" style="fill: #f7c6a6; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6"/>
+   <g id="patch_21">
+    <path d="M 228.028935 130.79952 
+L 228.028935 35.896289 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 228.028935 130.79952 
+L 313.658468 130.79952 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(250.832764 16.835742)">beam 2</text>
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(262.845889 29.896289)">(B)</text>
+   </g>
+  </g>
+  <g id="axes_4">
+   <g id="patch_23">
+    <path d="M 338.443403 130.79952 
+L 424.072936 130.79952 
+L 424.072936 35.896289 
+L 338.443403 35.896289 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 398.817629 94.184876 
+L 415.6545 94.184876 
+L 415.6545 72.510933 
+L 398.817629 72.510933 
+z
+" clip-path="url(#p3ed9ae110e)" style="fill: #e23442; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 372.839734 119.962549 
+L 389.676605 119.962549 
+L 389.676605 98.288607 
+L 372.839734 98.288607 
+z
+" clip-path="url(#p3ed9ae110e)" style="fill: #281535; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_26">
+    <path d="M 372.839734 68.407202 
+L 389.676605 68.407202 
+L 389.676605 46.73326 
+L 372.839734 46.73326 
+z
+" clip-path="url(#p3ed9ae110e)" style="fill: #f8d4bc; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_27">
+    <path d="M 346.861839 94.184876 
+L 363.69871 94.184876 
+L 363.69871 72.510933 
+L 346.861839 72.510933 
+z
+" clip-path="url(#p3ed9ae110e)" style="fill: #f6b995; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_7"/>
+   <g id="matplotlib.axis_8"/>
+   <g id="patch_28">
+    <path d="M 338.443403 130.79952 
+L 338.443403 35.896289 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_29">
+    <path d="M 338.443403 130.79952 
+L 424.072936 130.79952 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(361.247232 16.835742)">beam 2</text>
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(372.92942 29.896289)">(C)</text>
+   </g>
+  </g>
+  <g id="axes_5">
+   <g id="patch_30">
+    <path d="M 448.857871 130.79952 
+L 534.487404 130.79952 
+L 534.487404 35.896289 
+L 448.857871 35.896289 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_31">
+    <path d="M 509.232097 94.184876 
+L 526.068968 94.184876 
+L 526.068968 72.510933 
+L 509.232097 72.510933 
+z
+" clip-path="url(#p66d13e8c4d)" style="fill: #faebdd; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_32">
+    <path d="M 483.254202 119.962549 
+L 500.091073 119.962549 
+L 500.091073 98.288607 
+L 483.254202 98.288607 
+z
+" clip-path="url(#p66d13e8c4d)" style="fill: #faebdd; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_33">
+    <path d="M 483.254202 68.407202 
+L 500.091073 68.407202 
+L 500.091073 46.73326 
+L 483.254202 46.73326 
+z
+" clip-path="url(#p66d13e8c4d)" style="fill: #faebdd; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_34">
+    <path d="M 457.276306 94.184876 
+L 474.113178 94.184876 
+L 474.113178 72.510933 
+L 457.276306 72.510933 
+z
+" clip-path="url(#p66d13e8c4d)" style="fill: #faebdd; stroke-dasharray: 2.59,1.12; stroke-dashoffset: 0; stroke: #000000; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="matplotlib.axis_9"/>
+   <g id="matplotlib.axis_10"/>
+   <g id="patch_35">
+    <path d="M 448.857871 130.79952 
+L 448.857871 35.896289 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_36">
+    <path d="M 448.857871 130.79952 
+L 534.487404 130.79952 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(471.6617 16.835742)">beam 2</text>
+    <text style="font-size: 12px; font-family: 'Arial', 'DejaVu Sans', sans-serif" transform="translate(483.343887 29.896289)">(D)</text>
+   </g>
+  </g>
+  <g id="axes_6">
+   <g id="patch_37">
+    <path d="M 542.678482 118.936616 
+L 546.237353 118.936616 
+L 546.237353 47.759193 
+L 542.678482 47.759193 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAEpCAYAAABMVHjVAAABl0lEQVR4nO1a26kjUQzTMe6/w61gO7gQa2FLsOAK4cy/kK2HMyR5P3//EMunIDyN+QhgjsI8ezBtzBCYa43E16pfj+fH5TMTs91inz+ZlZzAeHZmwmqNhDz22LI9iX2uNRKx8WxfwvD1+YjPPHc9wUS123g9x6U2h5kh4UGf6WIeBvpcayT+F+OcYG0LSa2RsApGX0jmYiV5rRitxZO+d0+awDSGBJ6xa8+L1J07lhk2n+EZu33MDLWKz7bzczHTxFx7KFTBaGOezLH5bD5jDx4p2zznc+15YVWb58auPRTOnUdiRuLOBWlsCGBCsgoCGM81NuBhLoEY2tijgCmp/XwhQaRVz3YAgUCfa88LVbCngHFv7BHAJWDRwsczrKc30ecSsLgoWIt3m/esgs9nBu5cAhahO3fm2CVg0VR2nlS1qYDvWUVfSJgYkrpZSSrMSPx7xKRWkgIzL15P2gSja2f6DqCvkjznMzOvJzPVHu2FhrYf+HhNsA61isqfgie0krzoM++pTdPOtUYiNp7ts4qZVtH1bcU/SoPogApBcx8AAAAASUVORK5CYII=" id="imagebb2d48b9c3" transform="scale(1 -1) translate(0 -71.28)" x="542.64" y="-47.52" width="3.6" height="71.28"/>
+   <g id="matplotlib.axis_11"/>
+   <g id="matplotlib.axis_12">
+    <g id="ytick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mbbb16f37c5" d="M 0 0 
+L 3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mbbb16f37c5" x="546.237353" y="118.936616" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="553.237353" y="122.576753" transform="rotate(-0 553.237353 122.576753)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mbbb16f37c5" x="546.237353" y="83.347905" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="553.237353" y="86.988041" transform="rotate(-0 553.237353 86.988041)">2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mbbb16f37c5" x="546.237353" y="47.759193" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start" x="553.237353" y="51.39933" transform="rotate(-0 553.237353 51.39933)">4</text>
+     </g>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 10px; font-family: 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle" x="570.078564" y="83.347905" transform="rotate(-90 570.078564 83.347905)">Signal (V)</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_38">
+    <path d="M 542.678482 118.936616 
+L 544.457917 118.936616 
+L 546.237353 118.936616 
+L 546.237353 47.759193 
+L 544.457917 47.759193 
+L 542.678482 47.759193 
+L 542.678482 118.936616 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pd298aa25a3">
+   <rect x="7.2" y="35.896289" width="85.629533" height="94.903231"/>
+  </clipPath>
+  <clipPath id="p49396349ed">
+   <rect x="117.614468" y="35.896289" width="85.629533" height="94.903231"/>
+  </clipPath>
+  <clipPath id="pe5880dafc8">
+   <rect x="228.028935" y="35.896289" width="85.629533" height="94.903231"/>
+  </clipPath>
+  <clipPath id="p3ed9ae110e">
+   <rect x="338.443403" y="35.896289" width="85.629533" height="94.903231"/>
+  </clipPath>
+  <clipPath id="p66d13e8c4d">
+   <rect x="448.857871" y="35.896289" width="85.629533" height="94.903231"/>
+  </clipPath>
+ </defs>
+</svg>
