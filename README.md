@@ -2,7 +2,7 @@
 
 This repository contains the experimental data and Jupyter notebooks used to reproduce the data-driven panels in main-text Figures 1-4 and selected supplementary figures of the PCLA paper.
 
-Paper: [arXiv:2603.15517](https://arxiv.org/abs/2603.15517)
+Paper: Mor et al., Separating partially coherent light, [arXiv:2603.15517](https://arxiv.org/abs/2603.15517) (2026)
 
 ## Repository layout
 
@@ -32,9 +32,9 @@ python -m pip install -r requirements.txt
 jupyter lab
 ```
 
-Start Jupyter from anywhere inside the repository and run the notebooks in numerical order. Each notebook automatically locates the repository root and writes its PNG output to `figures/generated/`.
+Start Jupyter from anywhere inside the repository to run the notebooks. Each notebook automatically locates the repository root and writes its PNG output to `figures/generated/`.
 
-The `.npy` files contain pickled Python dictionaries and are loaded with `allow_pickle=True`. Only load data obtained from a trusted copy of this repository.
+The `.npy` files contain pickled Python dictionaries and are loaded with `allow_pickle=True`.
 
 ## Figure map
 
