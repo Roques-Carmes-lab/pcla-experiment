@@ -36,6 +36,8 @@ Start Jupyter from anywhere inside the repository to run the notebooks. Each not
 
 The `.npy` files contain pickled Python dictionaries and are loaded with `allow_pickle=True`.
 
+For Figures 3 and 4, `FINAL_FRACTION = 0.05` defines the converged portion of each optimization used for final-state entropy statistics and can be adjusted in the corresponding notebook. Error bars denote one standard deviation. Figure 2 visibility uncertainties are propagated from the sinusoidal-fit covariance; Figure 4 cross-talk uncertainties are propagated from the saved beam-resolved output-channel standard deviations.
+
 ## Figure map
 
 ### Main text
